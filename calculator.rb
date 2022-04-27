@@ -1,6 +1,8 @@
 class Calculator
+    attr_accessor :angka1, :angka2
 
     def tambah
+        return angka1 + angka2
     end
 
     def kurang
