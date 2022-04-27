@@ -3,3 +3,4 @@ List participant :
 - alfin yusriansyah
 - reza
 - Achmad Chun-Chun Winata Adi
+- Sonya Sipahutar
