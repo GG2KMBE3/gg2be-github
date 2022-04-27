@@ -6,8 +6,13 @@ class Calculator
     end
 
     def kurang
+        angka1 - angka2
     end
 
+    def kurang (a,b)
+        a - b
+    end
+    
     def kali
     end
 
