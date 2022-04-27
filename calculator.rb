@@ -9,6 +9,7 @@ class Calculator
     def kali
     end
 
-    def bagi
+    def bagi(a, b)
+        a/b
     end
 end
