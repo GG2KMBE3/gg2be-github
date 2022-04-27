@@ -6,9 +6,11 @@ class Car
     end
 
     def turn_left
+        puts "belok kiri"
     end
 
     def turn_right
+        puts "belok kanan"
     end
     
 end

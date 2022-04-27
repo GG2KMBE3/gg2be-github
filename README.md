@@ -5,5 +5,5 @@ List participant :
 - Achmad Chun-Chun Winata Adi
 - Sonya Sipahutar
 - Enrique
-- kuyang
-
+- jokow
+- syiffa
