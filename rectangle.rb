@@ -10,5 +10,7 @@ class Rectangle
     end
 
     def hitung_luas
+        luas_rec = @width * @length
+        return luas_rec
     end
 end
